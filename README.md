@@ -1,5 +1,7 @@
 # Micromouse
 
+[<img src="assembley pic.png">](https://www.youtube.com/shorts/OQ9yuvwSb1w)
+
 ## Micromouse Maze-Solving Robot
 ### Overview
 
