@@ -71,3 +71,8 @@ The Flood Fill algorithm assigns values to each cell based on Manhattan distance
   * Full compliance with competition rules by adding onboard start buttons.
   * PCB redesign for improved space efficiency and direct motor integration.
   * More advanced control strategies to handle turns without relying on walls.
+
+### Project Media  
+📹 **First successful run:** [Watch on YouTube](https://www.youtube.com/shorts/OQ9yuvwSb1w)  
+📜 **Full project report:** [Link to PDF] (optional)  
+🖼 **Images & schematics:** (Add images or a link to a Google Drive folder)
