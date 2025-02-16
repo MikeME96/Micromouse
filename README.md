@@ -76,4 +76,4 @@ The Flood Fill algorithm assigns values to each cell based on Manhattan distance
 ### Project Media  
 📹 **First successful run:** [Watch on YouTube](https://www.youtube.com/shorts/OQ9yuvwSb1w)  
 📜 **Full project report:** [Link to PDF] (optional)  
-🖼 **Images & schematics:** [![Micromouse Demo](Multimedia/assembley pic.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/shorts/OQ9yuvwSb1w))
+🖼 **Images & schematics:** [![https://github.com/MikeME96/Micromouse/blob/main/Multimedia/assembley%20pic.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/shorts/OQ9yuvwSb1w))
