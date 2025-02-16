@@ -1,4 +1,5 @@
 # Micromouse
+
 ## Micromouse Maze-Solving Robot
 ### Overview
 
@@ -75,4 +76,4 @@ The Flood Fill algorithm assigns values to each cell based on Manhattan distance
 ### Project Media  
 📹 **First successful run:** [Watch on YouTube](https://www.youtube.com/shorts/OQ9yuvwSb1w)  
 📜 **Full project report:** [Link to PDF] (optional)  
-🖼 **Images & schematics:** (Add images or a link to a Google Drive folder)
+🖼 **Images & schematics:** [![Micromouse Demo](https://github.com/YOUR-USERNAME/Micromouse-Project/blob/main/images/micromouse.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/shorts/OQ9yuvwSb1w))
